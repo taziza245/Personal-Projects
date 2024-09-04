@@ -1,3 +1,5 @@
+Exploring Engagement on Hacker News
+
 Project Overview
 - This project conducts basic analysis of user engagement on Hacker News by comparing two types of posts—Ask HN and Show HN. The goal is to determine which type of post gets more comments and whether the time of posting affects engagement.
 
